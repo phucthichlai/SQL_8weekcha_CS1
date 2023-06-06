@@ -1,9 +1,4 @@
-# SQL_8weekchallenge
- The 8 Week SQL Challenge is created by the Data With Danny virtual data apprenticeship program! A huge thanks to Danny!
-
-**Case Study #2 - Pizza Runner**
-
-https://8weeksqlchallenge.com/images/case-study-designs/2.png![image](https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/bdafc8e2-377b-42af-989d-85cd86176e33)
+# Case Study #2 - Pizza Runner
 
 **Introduction**
 
