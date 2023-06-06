@@ -5,8 +5,8 @@
 ## Table Of Contents
   - [Introduction](#introduction)
   - [Problem Statement](#problem-statement)
-  - [Datasets used](#datasets-used)
   - [Entity Relationship Diagram](#entity-relationship-diagram)
+  - [Datasets used](#dataset)
   - [Case Study Questions](#case-study-questions)
   
 ## Introduction
@@ -19,9 +19,15 @@ Danny wants to use the data to answer a few simple questions about his customers
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/84286efbdf15af47af983ec47e4c07ba174040cb/Case%20Study%20%23%201%20-%20Danny's%20Diner/ERD.jpg)
+![ER diagram](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20ER%20diagram.png?raw=true)
 
 ## Dataset
+  - Table 1: Sales
+  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20SALES.png?raw=true" alt="Image1" width="450" height="700">
+  - Table 2: Menu
+  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20MENU.png?raw=true" alt="Image2" width="468" height="214">
+  - Table 3: Members
+  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20MEMBERS.png?raw=true" alt="Image3" width="468" height="200">
   
 ## Case Study Questions
 1. What is the total amount each customer spent at the restaurant?
