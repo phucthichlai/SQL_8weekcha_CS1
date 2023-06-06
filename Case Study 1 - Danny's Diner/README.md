@@ -1,4 +1,9 @@
-<h1 align='center'> :bento::sushi::pizza: Case Study #1: Danny's Diner :pizza::sushi::bento: </h1>
+<h1 align='center'> :bento::sushi::pizza: Case Study #1: Danny's Diner :pizza::sushi::bento: </h1><br>
+
+<p align="center">
+
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450">
+<br>
   
 ## Table Of Contents
   - [Introduction](#introduction)
@@ -22,10 +27,12 @@ He plans on using these insights to help him decide whether he should expand the
 ## Dataset
   - Table 1: Sales
   <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20SALES.png?raw=true" alt="Image1" width="450" height="700">
+  
   - Table 2: Menu
   <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20MENU.png?raw=true" alt="Image2" width="468" height="214">
+  
   - Table 3: Members
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20MEMBERS.png?raw=true" alt="Image3" width="468" height="200">
+  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20table%20MEMBERS.png?raw=true" alt="Image3" width="468" height="180">
   
 ## Case Study Questions
 1. What is the total amount each customer spent at the restaurant?
@@ -39,15 +46,13 @@ He plans on using these insights to help him decide whether he should expand the
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
-  ## Bonus Questions
-  1. Join all the things: Recreate the following table
-  <img width="682" alt="bonus table 1" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/9ddede6e-667d-4fca-a251-b62ca95df973">
+## Bonus Questions
+1. Join all the things: Recreate the following table
+<img width="682" alt="bonus table 1" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/9ddede6e-667d-4fca-a251-b62ca95df973">
 
-  2. Rank all the things:
-  <img width="682" alt="bonus table 2" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/8abfa287-82a9-4881-aa0d-f083aa15e817">
+2. Rank all the things:
+<img width="682" alt="bonus table 2" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/8abfa287-82a9-4881-aa0d-f083aa15e817">
+<br><br>
 
-Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/edit/main/Case%20Study%201%20-%20Danny's%20Diner/Case_Study_Solution.md) to reach my solution queries!
+### Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/edit/main/Case%20Study%201%20-%20Danny's%20Diner/Case_Study_Solution.md) to reach my solution queries!
 
-<p align="center">
- 
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450">
