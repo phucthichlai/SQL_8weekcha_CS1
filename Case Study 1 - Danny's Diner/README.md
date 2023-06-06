@@ -48,4 +48,4 @@ He plans on using these insights to help him decide whether he should expand the
   2. Rank all the things:
   <img width="682" alt="bonus table 2" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/8abfa287-82a9-4881-aa0d-f083aa15e817">
 
-Click **[here]**(https://github.com/phucthichlai/SQL_8weekchallenge/edit/main/Case%20Study%201%20-%20Danny's%20Diner/Case_Study_Solution.md) to reach my solution queries!
+Click [here](https://github.com/phucthichlai/SQL_8weekchallenge/edit/main/Case%20Study%201%20-%20Danny's%20Diner/Case_Study_Solution.md) to reach my solution queries!
