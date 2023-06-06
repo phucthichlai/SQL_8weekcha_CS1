@@ -1,4 +1,4 @@
-# Case Study #1: Danny's Diner 
+<h1 align='center'> Case Study #1: Danny's Diner </h1>
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450">
   
@@ -41,3 +41,11 @@ He plans on using these insights to help him decide whether he should expand the
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
+  ## Bonus Questions
+  1. Join all the things: Recreate the following table
+  <img width="682" alt="bonus table 1" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/9ddede6e-667d-4fca-a251-b62ca95df973">
+
+  2. Rank all the things:
+  <img width="682" alt="bonus table 2" src="https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/8abfa287-82a9-4881-aa0d-f083aa15e817">
+
+Click **[here]**(https://github.com/phucthichlai/SQL_8weekchallenge/edit/main/Case%20Study%201%20-%20Danny's%20Diner/Case_Study_Solution.md) to reach my solution queries!
