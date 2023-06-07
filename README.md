@@ -8,4 +8,5 @@ Each case study folder contains:
 - An MD file containing SQL queries and the respective results
 
 ## List of the case study:
-* [Case study #1 - Danny's Diner]()
+* [Case study #1 - Danny's Diner](https://github.com/phucthichlai/SQL_8weekchallenge/tree/main/Case%20Study%201%20-%20Danny's%20Diner): Manipulation of data from basic to advanced; CTE utilization
+* [Case study #2 - Pizza Runner](https://github.com/phucthichlai/SQL_8weekchallenge/tree/main/Case%20Study%202%20-%20Pizza%20Runner): Manipulation of data from basic to advanced; Data Cleaning; Utilize string_split with cross/auto apply function; XML,...
