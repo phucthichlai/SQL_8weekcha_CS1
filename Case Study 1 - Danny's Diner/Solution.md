@@ -274,7 +274,7 @@ sales.customer_id = members.customer_id
 ```
 
 #### Result set:
-![image](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Bonus%20%231.png?raw=true)
+![image](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Images/Bonus%20%231.png?raw=true)
 
 ### Bonus question #2: Recraete the table
 
@@ -300,5 +300,5 @@ from t1
 ```
 
 #### Result set:
-![image](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Bonus%20%232.png?raw=true)
+![image](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Images/Bonus%20%232.png?raw=true)
 
