@@ -1,4 +1,6 @@
-## Questions: C.Ingredient Optimisation
+<h1 align="center"> :runner::pizza: Case Study #2: Pizza Runner :pizza::runner:</h1>
+
+## C.Ingredient Optimisation
 
 ### 1. What are the standard ingredients for each pizza?
 
@@ -200,4 +202,4 @@ from #exname
 #### Result set:
 ![result](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/result%20cs2%20q4.png?raw=true)
 
-#### Click [HERE]() to see the solution Part D: Pricing and Ratings
+#### Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20D.%20Pricing%20and%20Ratings.md) to see the solution Part D: Pricing and Ratings
