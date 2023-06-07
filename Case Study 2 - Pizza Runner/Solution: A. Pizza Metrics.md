@@ -200,7 +200,7 @@ order by datepart(WEEKDAY, order_time)
 | 6        | 1              |
 | 7        | 5              |
 
-### Go to my solution in B.Runner and Customer Experience [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20B.%20Runner%20and%20Customer%20Experience.md)
+#### Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20B.%20Runner%20and%20Customer%20Experience.md) to see Solution Part C: Ingredient Optimisation
 
 
 
