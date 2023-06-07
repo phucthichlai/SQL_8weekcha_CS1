@@ -52,7 +52,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
   
 ## Case Study Questions
 
-  ### A. Pizza Metrics
+  ### A. Pizza Metrics [SOLUTION](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20A.%20Pizza%20Metrics.md)
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -65,7 +65,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
 
-  ### B. Runner and Customer Experience
+  ### B. Runner and Customer Experience [SOLUTION](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20B.%20Runner%20and%20Customer%20Experience.md)
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
@@ -75,7 +75,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
 
-  ### C. Ingredient Optimisation
+  ### C. Ingredient Optimisation [SOLUTION](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20C.%20Ingredient%20Optimisation.md)
 
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
@@ -89,7 +89,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 - For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 6. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
-  ### D. Pricing and Ratings
+  ### D. Pricing and Ratings [SOLUTION](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20D.%20Pricing%20and%20Ratings.md)
 
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
 2. What if there was an additional $1 charge for any pizza extras?
