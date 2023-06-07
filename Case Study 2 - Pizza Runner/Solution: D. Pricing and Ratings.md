@@ -113,7 +113,7 @@ co.order_id = t1.order_id
 #### Result set:
 ![image](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/result%20cs2%20Dq4.png?raw=true)
 
-### 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?![image](https://github.com/phucthichlai/SQL_8weekchallenge/assets/104643138/6d5e951c-c26e-42a3-90ad-f1cd6c66f840)
+### 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
 
 ```sql
 with t1 as (
