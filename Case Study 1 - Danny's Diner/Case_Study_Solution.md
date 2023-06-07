@@ -1,4 +1,4 @@
-<h1 align="center"> :bento::sushi::pizza: Case Study #1: Danny's Diner :pizza::sushi::bento:</h1>
+<h1 align="center"> :bento::sushi::ramen: Case Study #1: Danny's Diner :ramen::sushi::bento:</h1>
 
 ## Questions 
  
