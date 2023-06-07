@@ -22,7 +22,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
 
 ## Entity Relationship Diagram
-![ER diagram](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/CS1%20ER%20diagram.png?raw=true)
+![ER diagram](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Images/CS1%20ER%20diagram.png?raw=true)
 
 ## Dataset
   - Table 1: Sales
