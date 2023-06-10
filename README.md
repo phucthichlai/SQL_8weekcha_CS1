@@ -2,7 +2,7 @@
 
 
 
-:bulb: This **[8 Week SQL Challenge](https://8weeksqlchallenge.com)** was created by the Data With Danny virtual data apprenticeship program! A huge thanks to Danny!
+:bulb: This **[8 Week SQL Challenge](https://8weeksqlchallenge.com)** was created by the Data With Danny virtual data apprenticeship program where we approach various problems in Danny's business and solve them with SQL! A huge thanks to Danny for bringing up everything!
 
 :bulb: Each case study folder contains:
 - A readme file explaining the case in overall and datasets available
