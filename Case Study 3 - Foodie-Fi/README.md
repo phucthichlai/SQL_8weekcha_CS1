@@ -7,7 +7,6 @@
   
 ## Table Of Contents
   - [Introduction](#introduction)
-  - [Problem Statement](#problem-statement)
   - [Entity Relationship Diagram](#entity-relationship-diagram)
   - [Datasets used](#dataset)
   - [Case Study Questions](#case-study-questions)
@@ -19,34 +18,15 @@ Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and 
 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
-## Problem Statement
-Because Danny had a few years of experience as a data scientist - he was very aware that data collection was going to be critical for his business’ growth.
-
-He has prepared for us an entity relationship diagram of his database design but requires further assistance to clean his data and apply some basic calculations so he can better direct his runners and optimise Pizza Runner’s operations.
-
-All datasets exist within the pizza_runner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
-
 ## Entity Relationship Diagram
-![ER diagram](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20ER%20diagram.png)
+![ER diagram](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%203%20-%20Foodie-Fi/Images/CS3%20ER%20diagram%20.png?raw=true)
 
 ## Dataset
-  - Table 1: Runners
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20table%20RUNNERS.png?raw=true" alt="Image1" width="600" height="250">
+  - Table 1: Plans
+  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%203%20-%20Foodie-Fi/Images/CS3%20table%20PLANS.png?raw=true" alt="Image1" width="333" height="282">
   
-  - Table 2: Customer_orders
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20table%20CUSTOMER_ORDERS.png?raw=true" alt="Image2" width="750" height="666">
-  
-  - Table 3: Runner_orders
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20table%20RUNNER_ORDERS.png?raw=true" alt="Image3" width="750" height="500">
-  
-  - Table 4: Pizza_names
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20table%20PIZZA_NAMES.png?raw=true" alt="Image1" width="770" height="304">
-  
-  - Table 5: Pizza_recipes
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20table%20PIZZA_RECIPES.png?raw=true" alt="Image2" width="770" height="304">
-  
-  - Table 6: Pizza_toppings
-  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Images/CS2%20table%20PIZZA_TOPPINGS.png?raw=true" alt="Image3" width="750" height="1174">
+  - Table 2: Subscriptions
+  <img src="https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%203%20-%20Foodie-Fi/Images/CS3%20table%20SUBSCRIPTIONS.png?raw=true" alt="Image2" width="380" height="638">
   
 ## Case Study Questions
 
@@ -80,6 +60,7 @@ The Foodie-Fi team wants you to create a new payments table for the year 2020 th
 * once a customer churns they will no longer make payments
 
   Example outputs for this table might look like the following:
+![image](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%203%20-%20Foodie-Fi/Images/CS3%20question%20C.png?raw=true)
   
 ### D. Outside The Box Questions
 
