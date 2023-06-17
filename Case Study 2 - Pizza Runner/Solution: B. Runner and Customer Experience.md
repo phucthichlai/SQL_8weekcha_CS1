@@ -144,4 +144,4 @@ group by runner_id
 | 2         | 75,00        |
 | 3         | 50,00        |
 
-#### Click [HERE]() to see Solution Part C: Ingredient Optimisation
+#### Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Solution%3A%20C.%20Ingredient%20Optimisation.md) to see Solution Part C: Ingredient Optimisation
