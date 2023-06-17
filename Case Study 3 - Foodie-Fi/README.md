@@ -71,5 +71,5 @@ The following are open ended questions which might be asked during a technical i
 4. If the Foodie-Fi team were to create an exit survey shown to customers who wish to cancel their subscription, what questions would you include in the survey?
 5. What business levers could the Foodie-Fi team use to reduce the customer churn rate? How would you validate the effectiveness of your ideas?
 
-
+### Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%203%20-%20Foodie-Fi/Solution%3A%20A.%20Customer%20Journey.md) to reach my solution queries!
   
