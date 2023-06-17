@@ -32,4 +32,4 @@ group by customer_id
 | 7           | trial -> basic monthly -> pro monthly  |
 | 8           | trial -> basic monthly -> pro monthly  |
 
-
+#### Click [HERE](https://github.com/phucthichlai/SQL_8weekchallenge/blob/main/Case%20Study%203%20-%20Foodie-Fi/Solution%3A%20B.%20Data%20Analysis%20Questions.md) to see Solution Part B: Data Analysis Questions
